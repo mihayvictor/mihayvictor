@@ -1,9 +1,9 @@
 ## 🙋🏽‍♂️ Olá, meu nome é Mihay Victor, seja bem vindo ao meu perfil no GitHub! 🙋🏽‍♂
 
 <div>
-  <a href="https://github.com/mihayvictor">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mihayvictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihayvictor&layout=compact&langs_count=10&theme=dark"/>
+  <a align="center" href="https://github.com/mihayvictor">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mihayvictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihayvictor&layout=compact&langs_count=10&theme=dark"/>
 </div>
     
 <div style="display: inline_block"><br>
