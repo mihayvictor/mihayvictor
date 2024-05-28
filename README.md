@@ -1,9 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 ## 🙋🏽‍♂️ Olá, meu nome é Mihay Victor, seja bem vindo ao meu perfil no GitHub! 🙋🏽‍♂
 
 <div>
   <a align="center" href="https://github.com/mihayvictor">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mihayvictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihayvictor&layout=compact&langs_count=10&theme=dark"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mihayvictor&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihayvictor&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
     
 <div style="display: inline_block"><br>
