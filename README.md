@@ -3,7 +3,7 @@
 <h2 align="center">Olá, meu nome é Mihay Victor, seja bem-vindo ao meu perfil no GitHub!</h2>
 
   <a align="center" href="https://github.com/mihayvictor">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mihayvictor&show_icons=true&hide_border=true&title_color=c9d1d9&icon_color=00bfbc&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private="/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=r&show_icons=true&hide_border=true&title_color=c9d1d9&icon_color=00bfbc&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private="/>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihayvictor&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
