@@ -15,7 +15,8 @@
   <img align="left" alt="icon-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="left" alt="icon-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="icon-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="left" alt="icon-mySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">  
+   <img align="left" alt="spring" height="45" width="55" src="http://www.w3.org/2000/svg"> 
+  <img align="left" alt="icon-mySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"> 
   <br>
   <br>
 </div>
