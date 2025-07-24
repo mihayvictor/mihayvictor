@@ -10,7 +10,7 @@
 <div style="display: inline_block">
   <img align="left" alt="icon-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="left" alt="icon-mySQL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="left" alt="postgreSQL" height="45" width="55" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+  <img align="left" alt="postgreSQL" height="38" width="48" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
   <img align="left" alt="spring" height="30" width="52" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png"> 
   <img align="left" alt="maven" height="30" width="52" src="https://user-images.githubusercontent.com/43886029/158700686-2b7f0d3d-2cfa-4ed0-9783-3b4b0d24469e.svg">
   <br>
